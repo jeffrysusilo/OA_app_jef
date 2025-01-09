@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\latihan_code\gitKp\kp_jeff_tahap2\SinauOpenCVKotlin\opencv\.cxx\Debug\qi391up2\arm64-v8a'
+ninja: no work to do.

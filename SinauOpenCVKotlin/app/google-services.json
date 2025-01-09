@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157147626809",
+    "project_id": "discussmp-d8b64",
+    "storage_bucket": "discussmp-d8b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157147626809:android:b65068f46041fd52fabce8",
+        "android_client_info": {
+          "package_name": "com.example.sinauopencvkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ivBBBI4JHXkwW7jyT8COWKKTu8QYdaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
